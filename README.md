@@ -9,4 +9,6 @@ Cílem práce bylo s využitím knihoven Pythonu projít dataset a aplikovat zá
 
 Dataset obsahuje 340986 řádků a 14 sloupců...
 
+## Identifikace aktivních vs. neaktivních stanic
+
 
